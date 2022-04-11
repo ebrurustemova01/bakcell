@@ -1,0 +1,66 @@
+/* #pasmsg{
+    display: none;
+    color: red;
+}
+#pasmsh{
+    display: none;
+    color: red;
+}
+#pasmsu{
+    display: none;
+    color: red;
+}
+
+#pass{
+   outline: none;
+   
+} */
+
+
+/* #block{
+    display: block;
+} */
+
+/* .main{
+  width: 600px;
+  height: 400px;
+  background-color:limegreen;
+  
+}
+
+
+
+input{
+    outline: none;
+}
+
+#error{
+    display: none;
+    color: red;
+}
+
+
+
+.main:hover{
+transform: rotateY(180deg);
+background-color: brown;
+transition: 1s;
+}
+
+.nam:hover{
+    transform: rotateY(180deg);
+}
+
+.surname:hover{
+    transform: rotateY(180deg);
+}
+
+.fin:hover{
+    transform: rotateY(180deg);
+}
+.date:hover{
+    transform: rotateY(180deg);
+} */
+
+
+
